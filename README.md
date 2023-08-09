@@ -35,7 +35,6 @@ On macOS and Linux:
 bash
 source venv/bin/activate
 
-
 Apply the database migrations:
 python manage.py migrate
 Run the development server:
